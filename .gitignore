@@ -1,0 +1,17 @@
+# Ignorar archivos de salida de compilación
+*.out
+*.exe
+*.o
+*.obj
+*.so
+*.dll
+*.a
+
+# Ignorar cualquier archivo temporal de compilación
+*.in.*
+*.out.*
+*.log
+
+# Si hay carpetas específicas donde se generan binarios
+bin/
+build/
